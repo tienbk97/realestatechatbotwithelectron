@@ -1,6 +1,6 @@
 # Real Estate Chatbot
 
-This is the source code for the Real Estate Chatbot
+This is the source code of the Real Estate Chatbot for packaging using Electron
 
 **Requires**
 * Node.js > 8.11.0
@@ -14,6 +14,12 @@ npm install
 **Start**
 ```
 npm start
+```
+
+**Package**
+Edit "build" script for specific platform
+```
+npm build
 ```
 
 ## LICENSE

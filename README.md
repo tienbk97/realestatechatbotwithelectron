@@ -17,6 +17,7 @@ npm start
 ```
 
 **Package**
+
 Edit "build" script for specific platform
 ```
 npm build
